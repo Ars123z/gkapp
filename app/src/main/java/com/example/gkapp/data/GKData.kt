@@ -86,4 +86,9 @@ val questions = listOf(
         "Dhaka",
         listOf("Chittagong", "Dhaka", "Kolkata")
     ),
+    Question(
+        "What is the capital of U.A.E?",
+        "Abu Dhabi",
+        listOf("Sharjah", "Dubai", "Abu Dhabi")
+    ),
 )
