@@ -131,4 +131,9 @@ val questions = listOf(
         "Monrovia",
         listOf("Maseru", "Monrovia", "Abidjan")
     ),
+    Question(
+        "What is the capital of Guinea?",
+        "Conakry",
+        listOf("Bissau", "Abidjan", "Conakry")
+    ),
 )
