@@ -91,4 +91,44 @@ val questions = listOf(
         "Abu Dhabi",
         listOf("Sharjah", "Dubai", "Abu Dhabi")
     ),
+    Question(
+        "What is the capital of Saudi Arabia?",
+        "Riyadh",
+        listOf("Medina", "Jeddah", "Riyadh")
+    ),
+    Question(
+        "What is the capital of Egypt?",
+        "Cairo",
+        listOf("Alexandria", "Giza", "Cairo")
+    ),
+    Question(
+        "What is the capital of Morocco?",
+        "Rabat",
+        listOf("Marrakech", "Casablanca", "Rabat")
+    ),
+    Question(
+        "What is the capital of Kenya?",
+        "Nairobi",
+        listOf("Mombasa", "Kisumu", "Nairobi")
+    ),
+    Question(
+        "What is the capital of Tanzania?",
+        "Dodoma",
+        listOf("Dar es Salaam", "Mwanza", "Dodoma")
+    ),
+    Question(
+        "What is the capital of Somalia?",
+        "Mogadishu",
+        listOf("Maseru", "Lusaka", "Mogadishu")
+    ),
+    Question(
+        "What is the capital of Madagascar?",
+        "Antananarivo",
+        listOf("Lilongwe", "Antananarivo", "Kinshasa")
+    ),
+    Question(
+        "What is the capital of Liberia?",
+        "Monrovia",
+        listOf("Maseru", "Monrovia", "Abidjan")
+    ),
 )
